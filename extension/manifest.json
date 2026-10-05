@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Math Grading Assistant",
+  "version": "1.0.0",
+  "description": "Adds a Scan with AI button to student work in Google Classroom.",
+  "host_permissions": ["http://127.0.0.1/*"],
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://classroom.google.com/*"],
+      "js": ["urlParser.js", "content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["button.css"],
+      "matches": ["https://classroom.google.com/*"]
+    }
+  ]
+}

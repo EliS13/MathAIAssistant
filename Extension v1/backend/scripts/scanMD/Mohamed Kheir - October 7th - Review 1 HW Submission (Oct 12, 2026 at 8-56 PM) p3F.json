@@ -1,0 +1,31 @@
+{
+ "problem": "Mathematics 8 Unit 2 Review, Pythagorean Theorem",
+ "resubmit": false,
+ "questions": [
+  {
+   "question": "12",
+   "work": "Problem: 12. For the right triangle shown: (a) identify the hypotenuse, and (b) write the Pythagorean relationship using the side labels.\n\n\n### Student Work: \na) c\nb) a^2+b^2=c^2",
+   "feedback": ""
+  },
+  {
+   "question": "13",
+   "work": "Problem: 13. A right triangle has legs of 5 cm and 5 cm. Find the hypotenuse. Leave a non-whole-number answer in simplest radical form.\n\n\n### Student Work: \n5^2+5^2=c^2\n=√50=c^2\n2√50=c",
+   "feedback": "In question 13, you went wrong in the third step when you placed a 2 in front of the square root instead of keeping it as a single radical being simplified. Remember that to simplify a radical, you need to look for pairs of identical prime factors inside the square root to pull out, rather than multiplying the whole root by 2. Try looking for the biggest square number that divides evenly into 50 to help you simplify it properly."
+  },
+  {
+   "question": "14",
+   "work": "Problem: 14. A right triangle has a hypotenuse of 7 cm and one leg of 4 cm. Find the other leg. Leave a non-whole-number answer in simplest radical form.\n\n\n### Student Work: \n7^2-4^2=a^2\n=√33=a^2\n√33=a",
+   "feedback": ""
+  },
+  {
+   "question": "15",
+   "work": "Problem: 15. To find the unknown leg a of a right triangle with hypotenuse 25 and one leg 20, a student wrote a = √25^2 + 20^2. Explain the error and find the correct value of a.\n\n\n### Student Work: \nHe was meant to subtract not add\n15",
+   "feedback": ""
+  },
+  {
+   "question": "16",
+   "work": "Problem: 16. Determine whether each set of side lengths can form a right triangle. Justify each answer using the Pythagorean theorem.\na) 7, 24, 25\nb) 5, 6, 8\nc) 28, 45, 53\n\n\n### Student Work: \na) yes\nb) no\nc) yes",
+   "feedback": ""
+  }
+ ]
+}

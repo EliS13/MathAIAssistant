@@ -1,0 +1,26 @@
+{
+ "problem": "Pythagorean Theorem Applications, Mathematics 8 - Unit 2 Review",
+ "resubmit": false,
+ "questions": [
+  {
+   "question": "17",
+   "work": "Problem: 17. A wheelchair ramp rises 1.5 m over a horizontal run of 3.6 m. Find the length of the ramp surface. Round to two decimal places where needed.\n\n### Student Work: \n1.5^2 + 3.6^2 = c^2\n= √15.21\n= 3.9",
+   "feedback": ""
+  },
+  {
+   "question": "18",
+   "work": "Problem: 18. A triangular garden has two perpendicular sides measuring 9 m and 12 m. Find the third side, then find the total length of fencing needed to surround the garden.\n\n### Student Work: \n9^2 + 12^2\n= √225\n= 15\\text{m}",
+   "feedback": ""
+  },
+  {
+   "question": "19",
+   "work": "Problem: 19. Two boats leave the same marina at the same time. One travels north at 5 km/h and the other travels east at 12 km/h. How far apart are the boats after 2 hours? Show how the situation forms a right triangle.\n\n### Student Work: \n10^2 + 24^2\n= √676\n= 26\\text{km}",
+   "feedback": ""
+  },
+  {
+   "question": "20",
+   "work": "Problem: 20. A two-part support is made from two right triangles. In the first triangle, the legs are 7 cm and 24 cm. Its hypotenuse becomes one leg of a second right triangle whose other leg is 60 cm. Find the final length x. Show both uses of the Pythagorean theorem.\n\n### Student Work: \n7^2 + 24^2 = r^2\n= 49 + 576 = √625\n= 25\\text{cm}\n25^2 + 60^2\n= √4225\n= 65\\text{cm}",
+   "feedback": ""
+  }
+ ]
+}

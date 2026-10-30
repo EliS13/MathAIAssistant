@@ -32,4 +32,7 @@
 - Batching system so that teachers don't need to do one at a time. Can do multiple students at once.
 ### Things to change
 - Make the UI and backend work together without much bugs such as the countdown timer stopping and crashing the entire thing.
-- 
+- Name recognition from the classroom page to the actual app through page parcing.
+- Fix the download sequence as its required to load the pages before they download.
+- Experiment with pricing as currently a class for a year needs 21-30 Canadian dollars to run the AI marking.
+- Overall bug fixing and cleaning up of the code for efficiency.

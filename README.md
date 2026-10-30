@@ -27,7 +27,7 @@
   5. If there are math equations, it sends it through SymPy to make sure AI isn't incorrect as well as the latex interpretation.
 
 ## October 29, 2026
-- Created a new interface for Extension v2
+- Created a new interface for Extension v2 (will add soon to github)
 - Includes a overall marking key so that teachers can mark faster without needing to go through every single document to match to their own keys.
 - Batching system so that teachers don't need to do one at a time. Can do multiple students at once.
 ### Things to change

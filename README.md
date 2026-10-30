@@ -7,7 +7,7 @@
 - Finished General Extension Look. Converted from sidebar to a pop out window.
 ## October 15, 2026
 - Got feedback on the interface and UI.
-### Things to Change
+### Things to change
 - Make the marking more efficient from 4 minutes for a single person down to a few seconds per student.
 - Be able to interpret acronyms, diagrams with drawn elements such as a highlighting circle, or a directing arrow.
 - Clean up the UI interface with ability to see full context of the question with a copy paste button for that student's feedback. Not every question will be on the sidebar.
@@ -26,4 +26,10 @@
     4. If its not confident if the question is correct or now, it runs it through the gemini models again for that specific question to ensure its verdict is correct. Don't want incorrectly identified correct questions.
     5. If there are math equations, it sends it through SymPy to make sure AI isn't incorrect as well as the latex interpretation.
 
- 
+## October 29, 2026
+- Created a new interface for Extension v2
+- Includes a overall marking key so that teachers can mark faster without needing to go through every single document to match to their own keys.
+- Batching system so that teachers don't need to do one at a time. Can do multiple students at once.
+### Things to change
+- Make the UI and backend work together without much bugs such as the countdown timer stopping and crashing the entire thing.
+- 

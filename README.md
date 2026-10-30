@@ -20,11 +20,11 @@
 - Created a new version of the backend and workflow changes.
 - Specific workflow now for v2:
 
-    1. OCR Transcription through gemini-3.1-flash-lite model
-    2. Then it checks its confidence in the reading. If its too low thinking that some questions were not translated properly, it will run it again.
-    3. Creates an answer key based off the first image and uses gemini-3.8-flash to ensure the feedback isn't incorrectly placed for a correct question.
-    4. If its not confident if the question is correct or now, it runs it through the gemini models again for that specific question to ensure its verdict is correct. Don't want incorrectly identified correct questions.
-    5. If there are math equations, it sends it through SymPy to make sure AI isn't incorrect as well as the latex interpretation.
+1. OCR Transcription through gemini-3.1-flash-lite model
+2. Then it checks its confidence in the reading. If its too low thinking that some questions were not translated properly, it will run it again.
+3. Creates an answer key based off the first image and uses gemini-3.8-flash to ensure the feedback isn't incorrectly placed for a correct question.
+4. If its not confident if the question is correct or now, it runs it through the gemini models again for that specific question to ensure its verdict is correct. Don't want incorrectly identified correct questions.
+5. If there are math equations, it sends it through SymPy to make sure AI isn't incorrect as well as the latex interpretation.
 
 ## October 29, 2026
 - Created a new interface for Extension v2

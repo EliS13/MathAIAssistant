@@ -19,4 +19,4 @@
 ## October 27, 2026
 - Created a new version of the backend and workflow changes.
 - Specific workflow now for v2:
-- 1. 
+    1. 
